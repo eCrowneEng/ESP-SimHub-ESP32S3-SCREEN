@@ -5,6 +5,7 @@ Discord: https://discord.gg/pnAXf2p3RS
 
 A simple SimHub firmware to drive these screens using the created by:
 https://github.com/MoemenMostafa/simhub-esp-dashboard
+https://www.youtube.com/watch?v=wgdSPFE3QUg 
 
 You'll need to install their `customProtocol-dashBoard.txt` in the `Arduino -> My Hardware -> Custom Protocol` field.
 
