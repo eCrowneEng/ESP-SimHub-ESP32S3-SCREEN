@@ -1,5 +1,8 @@
 # ESP-SimHub-ESP32S3-SCREEN
 
+Configuration based on the full/generic ESP-SimHub firmware: https://github.com/eCrowneEng/ESP-SimHub 
+Discord: https://discord.gg/pnAXf2p3RS 
+
 A simple SimHub firmware to drive these screens using the created by:
 https://github.com/MoemenMostafa/simhub-esp-dashboard
 
